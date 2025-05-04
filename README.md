@@ -71,8 +71,10 @@ Create an interactive sales dashboard to visualize key metrics such as revenue, 
 
 **Data Analysis:** Identified sales trends, high-performing products, and regional performance discrepancies.
 
-**Visualization:** [sales_dashboard](https://github.com/Renuka-Hebsur/Sales-Dashboard-Tableau/blob/main/Images/Sales%20Dashboard.png)
-Built charts and graphs to visually represent key metrics and trends.
+**Visualization:** 
+[sales_dashboard](https://github.com/Renuka-Hebsur/Sales-Dashboard-Tableau/blob/main/Images/Sales%20Dashboard.png)
+[story](https://github.com/Renuka-Hebsur/Sales-Dashboard-Tableau/blob/main/Images/Least%20State%20Sales%20Story.png)
+- Built charts and graphs to visually represent key metrics and trends.
 
 **Key Insights & Visuals:**
 - Revenue Trends: Displays revenue growth over time with comparisons to previous periods.
@@ -138,6 +140,8 @@ Uncover customer purchasing patterns and store performance to optimize product o
 - Analyzed product-category performance and seasonal trends.
 
 **Dashboard Development:**
+[Dashboard](https://github.com/Renuka-Hebsur/Retail_Insights-Sales-Analysis-Using-SQL---Tableau-/blob/main/Tableau%20Files/Dashboard%201.png)
+[Story](https://github.com/Renuka-Hebsur/Retail_Insights-Sales-Analysis-Using-SQL---Tableau-/blob/main/Tableau%20Files/Story%201.png)
 - Built Tableau visualizations: sales heatmaps, RFM segment charts, and trend lines.
 - Added filters for time period, region, and customer segment.
 
