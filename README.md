@@ -71,7 +71,8 @@ Create an interactive sales dashboard to visualize key metrics such as revenue, 
 
 **Data Analysis:** Identified sales trends, high-performing products, and regional performance discrepancies.
 
-**Visualization:** Built charts and graphs to visually represent key metrics and trends.
+**Visualization:** [sales_dashboard](https://github.com/Renuka-Hebsur/Sales-Dashboard-Tableau/blob/main/Images/Sales%20Dashboard.png)
+Built charts and graphs to visually represent key metrics and trends.
 
 **Key Insights & Visuals:**
 - Revenue Trends: Displays revenue growth over time with comparisons to previous periods.
