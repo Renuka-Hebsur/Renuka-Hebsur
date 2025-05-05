@@ -161,6 +161,7 @@ Uncover customer purchasing patterns and store performance to optimize product o
 - Advanced SQL (Window Functions, CTEs)
 - Business Case Studies for Interviews
 - Power BI for Dashboarding
+- Currently exploring basics of cloud platforms like AWS
 
 ---
 
