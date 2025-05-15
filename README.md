@@ -20,140 +20,78 @@ I recently transitioned from a project coordination role and a government exam p
 
 ### 📁 Featured Projects
 
-🔹 [**📱 Google Play Store Data Analysis**](https://github.com/Renuka-Hebsur/Google_PlayStore_Data_Analysis)
-
+🔹 [**🧠 Customer Segmentation & Churn Analysis (Python – ML)**](https://github.com/Renuka-Hebsur/customer-segmentation-churn-analysis)
 **Problem Statement:**
-Analyze 10,000+ Google Play Store apps to identify which categories, pricing models, and app characteristics drive installs and user ratings.
+Segment customers based on behavior and predict churn to help businesses improve retention and target high-risk customers effectively.
 
 **Tools Used:**
-- Python (pandas, NumPy)
-- Matplotlib, seaborn
-- Jupyter Notebook
+Python, Pandas, Seaborn, Scikit-learn, Jupyter Notebook
 
-**Step-by-Step Approach:**
+**Approach:**
+- Cleaned and prepared customer data
+- Performed EDA to uncover churn patterns
+- Used K-Means Clustering for segmentation
+- Built classification models (Logistic Regression, Random Forest) to predict churn
+- Visualized clusters, feature importance, and churn trends
 
-**Data Cleaning:** Handled missing values, removed duplicates, standardized data types.
+**Key Outcomes:**
+- Identified actionable customer segments
+- Predicted churn with ~XX% accuracy
+- Provided insights for personalized retention strategies
 
-**Exploratory Analysis:**
-- Computed installs and ratings by category and price model.
-- Examined distributions and outliers for app size and reviews.
+**Impact:**
+Enabled data-driven decisions to reduce churn and boost customer lifetime value. 
 
-**Visualization:** Created bar charts, scatter plots, and boxplots to reveal patterns.
-
-**Interpretation:** Correlated findings to business objectives (engagement, revenue).
-
-**Key Insights & Visuals:**
-- Top Categories: Games, Communication, Tools lead in install counts.
-- Free vs. Paid: Free apps outperform in installs; paid apps have marginally higher average ratings.
-- Size vs. Popularity: App size shows little effect on ratings; install volume is the stronger popularity driver.
-
-**Business Recommendations:**
-- Prioritize development in high-install categories like Games and Communication.
-- Leverage freemium models to maximize reach, then upsell premium features.
-- Optimize app size to improve adoption on low-storage devices.
-
-🔹 [**📊 Sales Dashboard (Tableau)**](https://github.com/Renuka-Hebsur/Sales-Dashboard-Tableau)
-
-**Problem Statement:**
-Create an interactive sales dashboard to visualize key metrics such as revenue, product performance, and sales trends, enabling data-driven decision-making for business growth.
+🔹 [**📰 Pahalgam Attack – Market Impact Analysis**](https://github.com/Renuka-Hebsur/pahalgam-attack-market-impact)
+Analyzed the stock market reaction to the Pahalgam terror attack using time series data. Assessed the short-term impact on NIFTY and defense sector stocks.
 
 **Tools Used:**
-- Tableau for Data Visualization
-- Excel/CSV dataset
+Python (pandas, matplotlib), Jupyter Notebook
 
-**Step-by-Step Approach:**
+**Key Insights:**
+- Minor dip in NIFTY observed post-attack, followed by quick recovery
+- Defense-related stocks showed temporary volatility but stabilized
+- Market sentiment was resilient, indicating investor confidence
 
-**Data Preparation:** Cleaned and transformed raw sales data (sales figures, regions, time periods) into a structured format.
+**Conclusion:**
+Geopolitical events can cause short-term volatility, but their market impact depends on perceived severity and economic context.
 
-**Dashboard Design:**
-- Designed KPIs for revenue, sales by region, product performance, and trends.
-- Created filters and interactive elements for user customization (e.g., date range, product categories).
+🔹[**🛍️ Retail Insights – Sales Analysis (SQL & Tableau)**](https://github.com/Renuka-Hebsur/Retail_Insights-Sales-Analysis-Using-SQL---Tableau-)
+Analyzed retail sales data using SQL and Tableau to uncover customer segments, seasonal trends, and product performance.
 
-**Data Analysis:** Identified sales trends, high-performing products, and regional performance discrepancies.
+**Tools:** SQL, Python (pandas), Tableau
 
-**Visualization:** 
-[sales_dashboard](https://github.com/Renuka-Hebsur/Sales-Dashboard-Tableau/blob/main/Images/Sales%20Dashboard.png)
-[story](https://github.com/Renuka-Hebsur/Sales-Dashboard-Tableau/blob/main/Images/Least%20State%20Sales%20Story.png)
-- Built charts and graphs to visually represent key metrics and trends.
+**Highlights:**
+- RFM analysis: Top 20% customers drive ~60% revenue
+- Sales spike during holidays by 45%
+- Electronics & Apparel lead in profit margins
 
-**Key Insights & Visuals:**
-- Revenue Trends: Displays revenue growth over time with comparisons to previous periods.
-- Product Performance: Visualized top-performing products by revenue and sales volume.
-- Regional Sales: Heatmaps for identifying high/low sales regions.
-- Sales Forecasting: Integrated trend analysis to predict future sales growth.
-
-**Business Recommendations:**
-- Focus marketing and sales efforts on high-performing products and regions.
-- Adjust pricing or promotions in regions with underperforming sales.
-- Leverage forecasting insights to plan inventory and marketing strategies effectively.
+**Recommendations:**
+Target top customers, prep for seasonal demand, and focus on high-margin products.
 
 🔹 [**🎬 Netflix EDA (Exploratory Data Analysis)**](https://github.com/Renuka-Hebsur/Netflix_EDA_Project)
+Analyzed Netflix’s content library to uncover trends in genres, ratings, release years, and regional preferences. Used Python and Jupyter Notebook for data cleaning, visualization, and insight generation.
 
-**Problem Statement:**
-Conduct exploratory data analysis on Netflix's content library to uncover patterns in genres, ratings, release years, and user preferences to guide content strategy.
+**Key Findings:**
+- Comedy, Drama, and Action dominate the catalog.
+- Recent releases get higher ratings.
+- Popular content tends to be short and highly rated.
+- Content preferences vary by region.
 
-**Tools Used:**
-- Python (pandas, NumPy, matplotlib, seaborn)
-- Jupyter Notebook
+**Recommendations:**
+Focus on top genres, produce more short, high-rated content, and tailor offerings by region.
 
-**Step-by-Step Approach:**
 
-**Data Cleaning:** Removed duplicates, handled missing data, and standardized columns for easy analysis.
+🔹[**📱 Google Play Store Data Analysis**](https://github.com/Renuka-Hebsur/Google_PlayStore_Data_Analysis)
+Analyzed 10,000+ apps to identify categories, pricing, and features that drive installs and ratings. Used Python for cleaning, visualization, and insights.
 
-**Exploratory Analysis:**
-- Investigated content distribution by genre, ratings, and release year.
-- Analyzed correlations between release year, duration, and ratings.
+**Key Insights:**
+- Games, Communication, Tools top installs
+- Free apps get more installs; paid apps have slightly better ratings
+- App size has little impact on popularity
 
-**Visualization:** Created histograms, bar plots, and heatmaps to visualize key patterns.
-
-**Insights Generation:** Identified high-demand genres, the evolution of content over time, and content popularity by region.
-
-**Key Insights & Visuals:**
-- Content Distribution: Comedy, Drama, and Action genres dominate Netflix’s library.
-- Ratings & Release Year: Ratings tend to peak for movies released in the last 5 years.
-- Popular Content: Most popular titles have short durations and high ratings.
-- Geographic Trends: A heatmap shows region-specific content preferences.
-
-**Business Recommendations:**
-- Focus on creating more content in top-performing genres like Comedy and Drama.
-- Release more short-duration, high-rated content to attract viewers.
-- Leverage geographic data to target region-specific content offerings and promotions.
-  
-🔹 [**🛍️ Retail Insights – Sales Analysis Using SQL & Tableau**](https://github.com/Renuka-Hebsur/Retail_Insights-Sales-Analysis-Using-SQL---Tableau-)
-
-**Problem Statement:**
-Uncover customer purchasing patterns and store performance to optimize product offerings and marketing strategies for a retail business.
-
-**Tools Used:**
-- SQL (PostgreSQL/MySQL) for data extraction and aggregation
-- Python (pandas) for supplemental data prep
-- Tableau for interactive reporting
-
-**Step-by-Step Approach:**
-
-**Data Extraction:** Wrote complex SQL queries using joins, CTEs, and window functions to pull sales, customer, and product data.
-
-**Data Cleaning & Transformation:** Standardized date formats, handled nulls, and created calculated fields (e.g., total spend, recency metrics).
-
-**Exploratory Analysis:**
-- Segmented customers by purchase frequency and value.
-- Analyzed product-category performance and seasonal trends.
-
-**Dashboard Development:**
-[Dashboard](https://github.com/Renuka-Hebsur/Retail_Insights-Sales-Analysis-Using-SQL---Tableau-/blob/main/Tableau%20Files/Dashboard%201.png)
-[Story](https://github.com/Renuka-Hebsur/Retail_Insights-Sales-Analysis-Using-SQL---Tableau-/blob/main/Tableau%20Files/Story%201.png)
-- Built Tableau visualizations: sales heatmaps, RFM segment charts, and trend lines.
-- Added filters for time period, region, and customer segment.
-
-**Key Insights & Visuals:**
-- High-Value Segments: Top 20% of customers contribute ~60% of revenue (RFM analysis).
-- Seasonal Peaks: Holiday season shows a 45% spike in sales—plan promotions accordingly.
-- Product Performance: Electronics and Apparel drive the highest margins.
-
-**Business Recommendations:**
-- Target high-value customer segments with loyalty programs and personalized offers.
-- Ramp up inventory and marketing ahead of identified seasonal peaks.
-- Focus on expanding high-margin product lines (Electronics, Apparel) to maximize profitability.
+**Recommendations:**
+Focus on high-install categories, use freemium models, and optimize app size for better adoption
 
 ---
 
