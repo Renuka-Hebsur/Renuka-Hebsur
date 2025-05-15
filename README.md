@@ -21,6 +21,7 @@ I recently transitioned from a project coordination role and a government exam p
 ### 📁 Featured Projects
 
 🔹 [**🧠 Customer Segmentation & Churn Analysis (Python – ML)**](https://github.com/Renuka-Hebsur/customer-segmentation-churn-analysis)
+
 **Problem Statement:**
 Segment customers based on behavior and predict churn to help businesses improve retention and target high-risk customers effectively.
 
@@ -43,6 +44,7 @@ Python, Pandas, Seaborn, Scikit-learn, Jupyter Notebook
 Enabled data-driven decisions to reduce churn and boost customer lifetime value. 
 
 🔹 [**📰 Pahalgam Attack – Market Impact Analysis**](https://github.com/Renuka-Hebsur/pahalgam-attack-market-impact)
+
 Analyzed the stock market reaction to the Pahalgam terror attack using time series data. Assessed the short-term impact on NIFTY and defense sector stocks.
 
 **Tools Used:**
@@ -57,6 +59,7 @@ Python (pandas, matplotlib), Jupyter Notebook
 Geopolitical events can cause short-term volatility, but their market impact depends on perceived severity and economic context.
 
 🔹[**🛍️ Retail Insights – Sales Analysis (SQL & Tableau)**](https://github.com/Renuka-Hebsur/Retail_Insights-Sales-Analysis-Using-SQL---Tableau-)
+
 Analyzed retail sales data using SQL and Tableau to uncover customer segments, seasonal trends, and product performance.
 
 **Tools:** SQL, Python (pandas), Tableau
@@ -70,6 +73,7 @@ Analyzed retail sales data using SQL and Tableau to uncover customer segments, s
 Target top customers, prep for seasonal demand, and focus on high-margin products.
 
 🔹 [**🎬 Netflix EDA (Exploratory Data Analysis)**](https://github.com/Renuka-Hebsur/Netflix_EDA_Project)
+
 Analyzed Netflix’s content library to uncover trends in genres, ratings, release years, and regional preferences. Used Python and Jupyter Notebook for data cleaning, visualization, and insight generation.
 
 **Key Findings:**
@@ -83,6 +87,7 @@ Focus on top genres, produce more short, high-rated content, and tailor offering
 
 
 🔹[**📱 Google Play Store Data Analysis**](https://github.com/Renuka-Hebsur/Google_PlayStore_Data_Analysis)
+
 Analyzed 10,000+ apps to identify categories, pricing, and features that drive installs and ratings. Used Python for cleaning, visualization, and insights.
 
 **Key Insights:**
