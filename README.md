@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Renuka Hebasur
-
-🎯 Aspiring Business & Data Analyst with a passion for solving problems, visualizing insights, and turning raw data into impactful stories. I bring 1.5+ years of experience across data cleaning, dashboarding, and predictive modeling with a focus on business outcomes.
+📈 Turning Data into Insights | 🧠 Curious Analyst | 💻 Python • SQL • Tableau • AWS • Excel • Data Science Fundamentals |  
+I bring 1.5+ years of experience across data cleaning, dashboarding, and predictive modeling with a focus on business outcomes.
 
 ---
 
