@@ -11,10 +11,11 @@ I entered the data field not just for a job — but because I love uncovering pa
 💡 From coordinating projects to building analytical dashboards, I’ve combined business acumen with technical skills to deliver value. My tools of choice include **Python, SQL, Tableau, Excel**, and **AWS (S3, Athena)**.
 
 🔧 Tools & Skills:  
-- **Languages**: Python (pandas, NumPy, matplotlib, scikit-learn), SQL (MySQL, SQLite)  
-- **BI & Analytics**: Tableau, Advanced Excel, PowerPoint  
-- **Cloud & ETL**: AWS (S3, Athena - beginner), Data Cleaning & Transformation  
-- **Areas of Focus**: Data Analytics, Forecasting, Churn Prediction, Dashboarding, Reporting
+- **Languages & Libraries**: Python (pandas, NumPy, matplotlib, scikit-learn), SQL (MySQL), Excel
+- **Visualization**: Tableau, Excel Dashboards, PowerPoint
+- **Data Engineering**: ETL Pipelines, Data Cleaning, Automation
+- **Platforms**: Jupyter Notebook, GitHub, AWS (S3, Athena – beginner)
+- **Focus Areas**: Churn Analysis, Forecasting, KPI Reporting, Customer Segmentation
 
 ---
 
@@ -35,18 +36,19 @@ I entered the data field not just for a job — but because I love uncovering pa
 
 ---
 
-## 📁 Contacts
+## 📜 Certifications
+
+- IBM Data Science Professional Certificate (Coursera)
+- Tableau for Data Visualization (Udemy)
+- Advanced Excel for Data Analysis (Udemy)
+
+---
+
+## 📁 Let's connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/renuka-hebasur/)
 - 📬 Email: renukah0359@outlook.com  
 - 📍 Bengaluru, India
-
----
-
-## 📈 What I’m Up To
-
-- Practicing SQL & case studies for business analysis
-- Open to Business Analyst & Data Analyst opportunities
 
 ---
 
