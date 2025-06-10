@@ -35,9 +35,8 @@ I entered the data field not just for a job — but because I love uncovering pa
 
 ---
 
-## 📁 Resume & Links
+## 📁 Contacts
 
-- 📄 [My Resume](https://github.com/Renuka-Hebsur/Renuka-Hebsur/blob/main/Renuka_Resume.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/renuka-hebasur/)
 - 📬 Email: renukah0359@outlook.com  
 - 📍 Bengaluru, India
