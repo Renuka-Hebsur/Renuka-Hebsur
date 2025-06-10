@@ -100,17 +100,9 @@ Focus on high-install categories, use freemium models, and optimize app size for
 
 ---
 
-### 📈 Currently Learning
-- Advanced SQL (Window Functions, CTEs)
-- Business Case Studies for Interviews
-- Power BI for Dashboarding
-- Currently exploring basics of cloud platforms like AWS
-
----
-
 ### 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/renuka-hebasur-448112364/)
-- 📧 Email: renuka.hebsur@gmail.com
+- 📧 Email: renukah0359@gmail.com
 - [GitHub Portfolio](https://github.com/Renuka-Hebsur)
 
 ---
