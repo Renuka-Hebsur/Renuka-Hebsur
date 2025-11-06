@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Renuka Hebasur
 **Quantitative Finance Analyst | Equity Research & Portfolio Analysis | Financial Modeling**
- Python • SQL • Tableau • Excel • FinTech
+
+Python • SQL • Tableau • Advanced Excel • FinTech
 
 I transform complex financial data into actionable investment insights and robust analytics. With a proven track record in quantitative research and financial analysis, I specialize in building automated pipelines, forecasting models, and portfolio analytics that drive strategic decisions. Currently deepening my expertise through a Post Graduate program in Financial Technologies.
 
