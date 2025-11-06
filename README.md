@@ -1,43 +1,28 @@
 # 👋 Hi, I’m Renuka Hebasur
-📈 Turning Data into Insights | 🧠 Curious Analyst | 💻 Python • SQL • Tableau • AWS • Excel • Data Science Fundamentals |  
-I bring 2+ years of experience across data cleaning, dashboarding, and predictive modeling with a focus on business outcomes.
+**Quantitative Finance Analyst | Equity Research & Portfolio Analysis | Financial Modeling**
+ Python • SQL • Tableau • Excel • FinTech
 
----
+I transform complex financial data into actionable investment insights and robust analytics. With a proven track record in quantitative research and financial analysis, I specialize in building automated pipelines, forecasting models, and portfolio analytics that drive strategic decisions. Currently deepening my expertise through a Post Graduate program in Financial Technologies.
 
-## 🚀 About Me
+**🚀 Professional Highlights**
+- Automated financial reporting & risk analytics, **improving accuracy by 30%** and reducing manual effort by **35%**.
+- Built forecasting algorithms and portfolio models that **enhanced return consistency by 18%**.
+- Conducted cost optimization & KPI analysis contributing to a **20% improvement in net margins**.
 
-I entered the data field not just for a job — but because I love uncovering patterns and enabling data-driven decisions.
+**🔧 Technical Toolkit**
+- **Languages & Analytics:** Python (pandas, NumPy, scikit-learn), SQL
+- **Financial Modeling:** Valuation, Budget Variance, Profitability Analysis, P&L Attribution
+- **Visualization & Reporting:** Tableau, Excel (Power Query, Pivot Tables, Dashboards)
+- **Domain Expertise:** Equity Research, Derivatives, Portfolio Management, Macroeconomic Analysis
 
-💡 From coordinating projects to building analytical dashboards, I’ve combined business acumen with technical skills to deliver value. My tools of choice include **Python, SQL, Tableau, Excel**, and **AWS (S3, Athena)**.
+**📊 Featured Projects**
+- **Equity & Market Trend Forecasting:** Performed time-series and volatility modeling on sectoral indices. Built Python algorithms to predict short-term price fluctuations.
+- **Automated Portfolio Analytics:** Developed SQL & Python pipelines for P&L attribution and exposure tracking, enhancing reporting accuracy.
+- **Retail Financial Performance Analysis:** Designed interactive Tableau dashboards to analyze multi-segment revenue, uncovering growth drivers and improving cost efficiency.
 
-🔧 Tools & Skills:  
-- **Languages & Libraries**: Python (pandas, NumPy, matplotlib, scikit-learn), SQL (MySQL), Excel
-- **Visualization**: Tableau, Excel Dashboards, PowerPoint
-- **Data Engineering**: ETL Pipelines, Data Cleaning, Automation
-- **Platforms**: Jupyter Notebook, GitHub, AWS (S3, Athena – beginner)
-- **Focus Areas**: Churn Analysis, Forecasting, KPI Reporting, Customer Segmentation
-
----
-
-## 📊 Featured Projects
-
-### 📌 [Customer Segmentation & Churn Analysis](https://github.com/Renuka-Hebsur/customer-segmentation-churn-analysis)
-- Performed EDA to uncover churn drivers in a telecom dataset.
-- Applied **K-Means clustering** and **Logistic Regression** to segment customers and predict churn with 90%+ accuracy.
-- Delivered actionable insights and a Tableau dashboard that improved client retention strategy.
-
-### 📌 [Sales & Customer Segmentation Insights Dashboard](https://github.com/Renuka-Hebsur/sales-dashboard-tableau)
-- Built an interactive Tableau dashboard analyzing 16 months of retail sales.
-- Monitored KPIs across 4 regions and visualized trends that boosted decision-making efficiency by 15%.
-
-### 📌 [Telco Customer Insights & Revenue Forecasting](https://github.com/Renuka-Hebsur/telco-revenue-dashboard)
-- Analyzed telecom user behavior, churn, and usage trends.
-- Developed Excel-based forecasting models with 90%+ accuracy and Tableau dashboards to guide business planning.
-
----
-
-## 📜 Certifications
-
+**🎓 Education & Certifications**
+- **PG in Financial Technologies** - NSE Academy + IMT 
+- NISM Research Analyst & Equity Derivatives Certification (SEBI) 
 - IBM Data Science Professional Certificate (Coursera)
 - Tableau for Data Visualization (Udemy)
 - Advanced Excel for Data Analysis (Udemy)
