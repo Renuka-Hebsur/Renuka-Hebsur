@@ -23,7 +23,7 @@ I transform complex financial data into actionable investment insights and robus
 
 **🎓 Education & Certifications**
 - **PG in Financial Technologies** - NSE Academy + IMT 
-- NISM Research Analyst & Equity Derivatives Certification (SEBI) 
+- NISM XIX-E Series Alternative Investment Fund Certification (SEBI) 
 - IBM Data Science Professional Certificate (Coursera)
 - Tableau for Data Visualization (Udemy)
 - Advanced Excel for Data Analysis (Udemy)
