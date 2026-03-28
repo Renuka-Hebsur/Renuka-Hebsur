@@ -40,15 +40,23 @@ Alongside market experience, I leverage tools like Excel, Python, SQL, and Table
 **Technical Skills**
 
 Programming & Analysis: Python (Pandas, NumPy), SQL
+
 Financial Skills: Valuation (Basic), Financial Analysis, Ratio Analysis, Market Analysis
+
 Tools: Excel (Advanced), Tableau
 
 **Education & Certifications**
+
 MBA (Finance) – Mizoram University (2026 - 2028)
+
 NISM Research Analyst Certification (SEBI)
+
 Advanced Excel & Tableau Certifications
 
 **Connect With Me**
+
 LinkedIn: https://www.linkedin.com/in/renuka-h-448112364/
+
 Email: renukah0359@gmail.com
+
 Location: Bengaluru, KA, India
