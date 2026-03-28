@@ -18,6 +18,7 @@ Alongside market experience, I leverage tools like Excel, Python, SQL, and Table
 * Data Analysis for Finance (Python, SQL, Excel, Tableau)
   
 **Featured Projects**
+
 **1. Equity Research Case Study – Pokarna Limited**
 * Generated ~50–70% returns using macro triggers, fundamental analysis, and technical breakout strategy
 * Analyzed impact of budget-driven sector momentum
@@ -37,6 +38,7 @@ Alongside market experience, I leverage tools like Excel, Python, SQL, and Table
 * Converted raw financial data into structured business insights
   
 **Technical Skills**
+
 Programming & Analysis: Python (Pandas, NumPy), SQL
 Financial Skills: Valuation (Basic), Financial Analysis, Ratio Analysis, Market Analysis
 Tools: Excel (Advanced), Tableau
