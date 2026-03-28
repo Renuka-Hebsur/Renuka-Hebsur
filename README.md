@@ -1,41 +1,53 @@
-# 👋 Hi, I’m Renuka Hebasur
-**Quantitative Finance Analyst | Equity Research & Portfolio Analysis | Financial Modeling**
+**👋 Hi, I’m Renuka Hebasur**
 
-Python • SQL • Tableau • Advanced Excel • FinTech
+**MBA Finance Candidate | Equity Research | Financial Analysis | Portfolio Analytics**
 
-I transform complex financial data into actionable investment insights and robust analytics. With a proven track record in quantitative research and financial analysis, I specialize in building automated pipelines, forecasting models, and portfolio analytics that drive strategic decisions. Currently deepening my expertise through a Post Graduate program in Financial Technologies.
+Python • SQL • Excel • Tableau
 
-**🚀 Professional Highlights**
-- Automated financial reporting & risk analytics, **improving accuracy by 30%** and reducing manual effort by **35%**.
-- Built forecasting algorithms and portfolio models that **enhanced return consistency by 18%**.
-- Conducted cost optimization & KPI analysis contributing to a **20% improvement in net margins**.
+I am an MBA Finance candidate with hands-on experience in equity markets, portfolio analysis, and data-driven financial decision-making. I have independently worked in the stock market, applying a combination of fundamental and technical analysis to identify opportunities and generate returns.
 
-**🔧 Technical Toolkit**
-- **Languages & Analytics:** Python (pandas, NumPy, scikit-learn), SQL
-- **Financial Modeling:** Valuation, Budget Variance, Profitability Analysis, P&L Attribution
-- **Visualization & Reporting:** Tableau, Excel (Power Query, Pivot Tables, Dashboards)
-- **Domain Expertise:** Equity Research, Derivatives, Portfolio Management, Macroeconomic Analysis
+My approach focuses on understanding businesses through financial statements, valuation, and macroeconomic trends, and validating insights using data and structured analysis.
 
-**📊 Featured Projects**
-- **Equity & Market Trend Forecasting:** Performed time-series and volatility modeling on sectoral indices. Built Python algorithms to predict short-term price fluctuations.
-- **Automated Portfolio Analytics:** Developed SQL & Python pipelines for P&L attribution and exposure tracking, enhancing reporting accuracy.
-- **Retail Financial Performance Analysis:** Designed interactive Tableau dashboards to analyze multi-segment revenue, uncovering growth drivers and improving cost efficiency.
+Alongside market experience, I leverage tools like Excel, Python, SQL, and Tableau to build financial models, analyze performance, and create dashboards that translate data into actionable insights.
 
-**🎓 Education & Certifications**
-- **PG in Financial Technologies** - NSE Academy + IMT 
-- NISM XIX-E Series Alternative Investment Fund Certification (SEBI) 
-- IBM Data Science Professional Certificate (Coursera)
-- Tableau for Data Visualization (Udemy)
-- Advanced Excel for Data Analysis (Udemy)
+**Core Expertise**
+* Equity Research (Fundamental + Technical Analysis)
+* Financial Statement Analysis & Valuation
+* Portfolio Management & Risk Assessment
+* Market & Macroeconomic Analysis
+* Data Analysis for Finance (Python, SQL, Excel, Tableau)
+  
+**Featured Projects**
+1. Equity Research Case Study – Pokarna Limited
+* Generated ~50–70% returns using macro triggers, fundamental analysis, and technical breakout strategy
+* Analyzed impact of budget-driven sector momentum
+* Identified volume-backed breakout and trend continuation
+  
+2. Portfolio Risk & Performance Analysis
+* Analyzed 8–12 stocks to evaluate returns, volatility, and drawdowns (~12–20%)
+* Compared risk-return profiles across assets
+* Built Excel-based framework for performance tracking
 
----
+3. Market Trend Forecasting
+* Applied time-series and volatility analysis on sectoral indices
+* Built Python models to study price behavior and short-term trends
 
-## 📁 Let's connect
+4. Financial Dashboards & Reporting
+* Designed Tableau dashboards to track KPIs, revenue trends, and performance
+* Converted raw financial data into structured business insights
+🔧
+**Technical Skills**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/renuka-hebasur/)
-- 📬 Email: renukah0359@outlook.com  
-- 📍 Bengaluru, India
+Programming & Analysis: Python (Pandas, NumPy), SQL
+Financial Skills: Valuation (Basic), Financial Analysis, Ratio Analysis, Market Analysis
+Tools: Excel (Advanced), Tableau
 
----
+**Education & Certifications**
+MBA (Finance) – Mizoram University (2026 - 2028)
+NISM Research Analyst Certification (SEBI)
+Advanced Excel & Tableau Certifications
 
-⭐ *Let’s connect, collaborate, and make data do more!*  
+**Connect With Me**
+LinkedIn: https://www.linkedin.com/in/renuka-h-448112364/
+Email: renukah0359@gmail.com
+Location: Bengaluru, KA, India
